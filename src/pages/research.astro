@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { projects } from '../data/projects';
+import { mediaGroups } from '../data/media';
+
+const projectMedia = {
+  urc: mediaGroups
+    .filter(group => group.paper.startsWith('Mars Rover Systems'))
+    .map(group => ({ ...group, links: group.links.filter(link => /URC rover video/i.test(link.label)) })),
+  stickbug: mediaGroups.filter(group => group.paper.startsWith('Stickbug')),
+  loopy: mediaGroups
+    .filter(group => group.paper.startsWith('Loopy'))
+    .sort((a, b) => Number(a.paper.includes('Media coverage')) - Number(b.paper.includes('Media coverage'))),
+  polymorph: [],
+};
+
+const shortGroupName = (name: string) => name.replace(/^(Mars Rover Systems|Stickbug|Loopy) · /, '');
+const buttonLabel = (label: string) => {
+  if (/IEEE Spectrum/i.test(label)) return 'IEEE Spectrum';
+  if (/^paper$/i.test(label)) return 'Paper';
+  if (/source code/i.test(label)) return 'Software';
+  if (/dataset/i.test(label)) return 'Dataset';
+  if (/CAD/i.test(label)) return 'CAD';
+  if (/project page/i.test(label)) return 'Project';
+  if (/video|movements|morphology|overview/i.test(label)) return 'Video';
+  return label;
+};
+const paperForGroup = (project: typeof projects[number], paper: string) => {
+  const key = paper.toLowerCase();
+  if (project.slug === 'stickbug') return key.includes('robot design') ? project.links[0] : undefined;
+  if (key.includes('cellular plasticity')) return project.links.find(link => link.label.toLowerCase().includes('npj'));
+  if (key.includes('loopy movements')) return project.links.find(link => link.label.toLowerCase().includes('icra'));
+  if (key.includes('swarm of one')) return project.links.find(link => link.label.toLowerCase().includes('iros'));
+  return project.links.find(link => key.includes(link.label.split(' ')[0].toLowerCase()));
+};
+---
+<BaseLayout title="Research | Trevor Smith, Ph.D." description="Technical research in modular field robots, distributed multi-manipulator systems, multicellular robotics, and physically scalable Swarm-of-One systems.">
+  <section class="page-hero shell">
+    <p class="eyebrow">Research</p>
+    <h1>From Mars Rovers<br>to robotic cells.</h1>
+    <p>My work develops and tests decentralized robotic architectures through custom physical systems. Each platform marks a step toward robots whose morphology, behavior, and intelligence co-emerge.</p>
+  </section>
+  <section class="research-projects">
+    {projects.map((p,i) => {
+      const media = projectMedia[p.slug as keyof typeof projectMedia];
+      return <article class="research-project" id={p.slug}>
+        <div class="research-project-image"><img src={p.image} alt={`${p.title} robotic system`} loading="lazy"></div>
+        <div class="research-project-copy">
+          <p class="eyebrow">{String(i+1).padStart(2,'0')} · {p.eyebrow}</p>
+          <h2>{p.title}</h2>
+          <p class="research-summary">{p.summary}</p>
+          <p>{p.description}</p>
+          <ul class="tags">{p.themes.map(t => <li>{t}</li>)}</ul>
+          {p.slug === 'polymorph' && <p class="availability">Developing project · Additional demonstrations and documentation forthcoming</p>}
+          {p.slug === 'urc' && <div class="project-media urc-media"><strong>URC Rover Videos</strong><nav>{media.flatMap(group => group.links).map(link => <a class="resource-button" href={link.url} target="_blank" rel="noreferrer">{link.label.slice(0,4)}</a>)}</nav></div>}
+          {p.slug !== 'urc' && media.length > 0 && <div class="project-media">{media.map(group => {
+            const paper = paperForGroup(p, group.paper);
+            const isCoverage = group.paper.includes('Media coverage');
+            return <section class={isCoverage ? 'media-coverage' : undefined}><h3>{shortGroupName(group.paper)}{group.year && ` · ${group.year}`}</h3><nav aria-label={`${group.paper} links`}>{paper && <a class="resource-button" href={paper.url} target="_blank" rel="noreferrer">Paper</a>}{group.links.map(link => <a class={isCoverage ? 'media-link' : 'resource-button'} href={link.url} target="_blank" rel="noreferrer">{buttonLabel(link.label)}{isCoverage && <span aria-hidden="true"> ↗</span>}</a>)}</nav></section>;
+          })}</div>}
+        </div>
+      </article>;
+    })}
+  </section>
+</BaseLayout>

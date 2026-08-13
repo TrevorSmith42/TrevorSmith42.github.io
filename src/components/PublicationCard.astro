@@ -1,0 +1,4 @@
+---
+const { publication:p }=Astro.props;
+---
+<article class="publication" data-year={p.year} data-project={p.project} data-type={p.type}><time>{p.year}</time><div><div class="pub-meta">{p.type} · {p.project}{p.award&&<b>{p.award}</b>}</div><h2>{p.title}</h2><p>{p.authors}</p><p><em>{p.venue}</em></p></div><nav aria-label={`Links for ${p.title}`}>{p.doi&&<a href={p.doi}>DOI ↗</a>}{p.pdf&&<a href={p.pdf}>PDF ↓</a>}{p.video&&<a href={p.video}>Video ↗</a>}</nav></article>

@@ -1,0 +1,4 @@
+---
+const { project }=Astro.props;
+---
+<article class="project-card"><a href={`/projects/${project.slug}`}><div class="image"><img src={project.image} alt={`${project.title} research project`} loading="lazy"></div><p class="eyebrow">{project.eyebrow}</p><h2>{project.title}</h2><p>{project.summary}</p><span class="arrow">View project ↗</span></a></article>

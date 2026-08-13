@@ -1,0 +1,5 @@
+---
+import { profile } from '../data/profile';
+const socials=[['Email',`mailto:${profile.email}`],['Google Scholar',profile.scholar],['ORCID',profile.orcid],['GitHub',profile.github],['LinkedIn',profile.linkedin],['YouTube',profile.youtube]].filter(([,url])=>url);
+---
+<footer><div><strong>{profile.brand}</strong><p>{profile.name}<br>{profile.shortAffiliation}</p></div><nav aria-label="Social links">{socials.map(([label,url])=><a href={url}>{label} ↗</a>)}</nav><small>© {new Date().getFullYear()} {profile.name} Emergent Robotics is Trevor Smith’s developing independent research program.</small></footer>

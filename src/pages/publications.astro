@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PublicationCard from '../components/PublicationCard.astro';
+import bibText from '../data/trevor.bib?raw';
+import { profile } from '../data/profile';
+
+const clean = (value = '') => value.replace(/[{}]/g, '').replace(/--/g, '–').replace(/\s+/g, ' ').trim();
+const field = (block: string, name: string) => clean(block.match(new RegExp(`${name}\\s*=\\s*\\{([\\s\\S]*?)\\}(?:,|\\s*\\n)`, 'i'))?.[1]);
+const inferProject = (title: string) => /loopy|cellular|swarm of one/i.test(title) ? 'Loopy' : /stickbug|flower|branch|pollination/i.test(title) ? 'Stickbug' : /rodent|aruco|treadmill/i.test(title) ? 'Neuroscience' : /boids|swarm/i.test(title) ? 'Swarm robotics' : /social|human personal|telepresence/i.test(title) ? 'Human–robot interaction' : 'Robotics';
+
+const publications = bibText.trim().split(/\n(?=@)/).map((block) => {
+  const kind = block.match(/^@(\w+)/)?.[1].toLowerCase() || '';
+  const title = field(block, 'title');
+  return {
+    title,
+    authors: field(block, 'author').replace(/\s+and\s+/g, ', '),
+    venue: field(block, 'journal') || field(block, 'booktitle'),
+    year: Number(field(block, 'year')),
+    type: kind === 'article' ? 'Journal' : 'Conference',
+    project: inferProject(title),
+    doi: field(block, 'doi') ? `https://doi.org/${field(block, 'doi')}` : '',
+    pdf: '', video: '', award: ''
+  };
+}).filter((publication) => publication.title && publication.year).sort((a,b) => b.year-a.year);
+
+const years = [...new Set(publications.map(p => p.year))];
+const projects = [...new Set(publications.map(p => p.project))];
+---
+<BaseLayout title="Publications | Trevor Smith, Ph.D." description="Complete publication record for Trevor Smith in self-organizing, modular, agricultural, swarm, and human–robot interaction research.">
+  <section class="page-hero shell"><p class="eyebrow">Publications</p><h1>Research record.</h1><p>A complete bibliography drawn directly from the site’s BibTeX source.</p><div class="buttons"><a class="button" href={profile.scholar}>Google Scholar ↗</a><a class="button alt" href="/Trevor_Smith_Publications.bib">Download BibTeX ↓</a></div></section>
+  <section class="shell" style="padding-bottom:140px"><div class="filters" aria-label="Publication filters"><select id="year"><option value="">All years</option>{years.map(y=><option>{y}</option>)}</select><select id="project"><option value="">All areas</option>{projects.map(p=><option>{p}</option>)}</select><select id="type"><option value="">All types</option><option>Journal</option><option>Conference</option></select></div><div class="publication-list">{publications.map(p=><PublicationCard publication={p}/>)}</div><p id="empty" hidden>No publications match these filters.</p></section>
+  <script>const filters=['year','project','type'].map(id=>document.querySelector(`#${id}`));const cards=[...document.querySelectorAll('.publication')];function run(){let shown=0;cards.forEach(c=>{const yes=filters.every(f=>!f.value||c.dataset[f.id]===f.value);c.hidden=!yes;if(yes)shown++});document.querySelector('#empty').hidden=shown>0}filters.forEach(f=>f.addEventListener('change',run));</script>
+</BaseLayout>

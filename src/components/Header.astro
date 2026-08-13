@@ -1,0 +1,6 @@
+---
+import { profile } from '../data/profile';
+const path = Astro.url.pathname;
+const links=[['/','Home'],['/research','Research'],['/teaching','Teaching'],['/service','Professional Service'],['/publications','Publications']];
+---
+<header><a class="brand" href="/"><img class="mark" src="/images/trevor-smith.jpg" alt=""><span>{profile.name}<small>{profile.brand}</small></span></a><button class="menu" aria-expanded="false" aria-controls="nav">Menu</button><nav id="nav" aria-label="Primary">{links.map(([url,label])=><a href={url} aria-current={path===url||(url!=='/'&&path.startsWith(url))?'page':undefined}>{label}</a>)}<a class="header-cv" href="/cv/Trevor_Smith_CV.pdf">CV ↓</a></nav></header>

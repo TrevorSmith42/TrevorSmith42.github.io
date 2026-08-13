@@ -1,0 +1,667 @@
+<!-- wp:template-part {"slug":"header","theme":"pub/twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"dimensions":{"minHeight":"0px"},"border":{"radius":"100px"}},"backgroundColor":"accent-5","fontSize":"medium","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-accent-5-background-color has-background has-medium-font-size" style="border-radius:100px;min-height:0px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:jetpack/slideshow {"ids":[35,101,102,106,107,103,105,104],"sizeSlug":"full","className":"is-style-rounded"} -->
+<div class="wp-block-jetpack-slideshow aligncenter is-style-rounded" data-effect="slide" style="--aspect-ratio:calc(1280 / 720)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-35" data-id="35" data-aspect-ratio="1280 / 720" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/syxvwmvftpa-hd-1.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-101" data-id="101" data-aspect-ratio="1615 / 1212" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250410_193354.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-102" data-id="102" data-aspect-ratio="1408 / 1890" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250129_114227.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-106" data-id="106" data-aspect-ratio="4032 / 2268" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/trevor-smith-1.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-107" data-id="107" data-aspect-ratio="4000 / 3000" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20231003_113456.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-103" data-id="103" data-aspect-ratio="1328 / 1776" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250521_110719.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-105" data-id="105" data-aspect-ratio="1520 / 2026" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20241016_115153.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-104" data-id="104" data-aspect-ratio="1792 / 1344" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250521_143439.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"0px"},"layout":{"selfStretch":"fixed","flexSize":"5000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="min-height:0px"><!-- wp:paragraph {"style":{"layout":{"selfStretch":"fit","flexSize":""},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}},"elements":{"link":{"color":{"text":"#000000"}}},"color":{"text":"#000000"}},"fontSize":"large"} -->
+<p class="has-text-color has-link-color has-large-font-size" style="color:#000000;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><strong>Research Vision</strong>: "<em>Enable robots to design their body and behavior at runtime to adapt to unforeseen environmental conditions</em>."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>Key Awards</strong> <strong>&amp; Accomplishments</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<li style="font-size:1.6rem">NSF Graduate Research Fellow</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<li style="font-size:1.6rem">WVU 3 Minute Thesis, 2nd Place Winner</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<li style="font-size:1.6rem">Best Presentation Award, Living Machines (2024)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.6rem"}}} -->
+<li style="font-size:1.6rem">Designed 20+ robot types and constructed 200+ robots</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:file {"id":179,"href":"https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/trevor-r.-smith-cv-10_21_2025.pdf","showDownloadButton":false,"displayPreview":false,"style":{"layout":{"selfStretch":"fit","flexSize":null},"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}},"border":{"radius":"3px"},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"backgroundColor":"contrast"} -->
+<div class="wp-block-file has-contrast-background-color has-background has-link-color" style="border-radius:3px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><a id="wp-block-file--media-83123a6e-b293-42c2-8c2c-a2efcb367383" href="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/trevor-r.-smith-cv-10_21_2025.pdf" target="_blank" rel="noreferrer noopener"><strong>Curriculum Vitae</strong></a></div>
+<!-- /wp:file --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"className":"is-style-default","style":{"typography":{"fontSize":"3.7rem","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"0","right":"0"}},"color":{"background":"#a5d6a7"},"border":{"radius":"100px"}},"anchor":"overview-education"} -->
+<h1 class="wp-block-heading has-text-align-center is-style-default has-background" id="overview-education" style="border-radius:100px;background-color:#a5d6a7;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0;font-size:3.7rem">Overview &amp; Education</h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0","margin":{"top":"0"}}},"layout":{"type":"default"}} -->
+<main class="wp-block-group" style="margin-top:0"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"},"margin":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"dimensions":{"minHeight":"0px"},"border":{"radius":"100px"}},"backgroundColor":"accent-5","fontSize":"medium","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-accent-5-background-color has-background has-medium-font-size" style="border-radius:100px;min-height:0px;margin-top:var(--wp--preset--spacing--10);margin-bottom:var(--wp--preset--spacing--10);padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"},"layout":{"selfStretch":"fixed","flexSize":"800px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size"><strong>What is a "Swarm of One"? You Are!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>You are the result of the collective actions of millions of cells, and you are one person.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
+<p>My research investigates this self-organization phenomenon to have a robot's body and behavior emerge from its components. Inspired by biological morphogenesis and swarm robotics, my research challenges traditional rigid Top-Down design by studying flexible Bottom-Up approaches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Research Interests</strong>: Robotic Swarms, Collective &amp; Embodied Intelligence, Robot Design, Self-Organization, Morphogenesis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Applications</strong>: Agricultural Robotics, Animal Behavior Apparatus, Educational &amp; Research Robots</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Robot Skills: </strong>Solidworks, Onshape, ROS(2), Python, Arduino, Raspberry PI, KiCad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Education</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"fontSize":"1.2rem"}}} -->
+<li style="font-size:1.2rem">Ph.D. Mechanical Engineering, West Virginia University (expected May 2026)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.2rem"}}} -->
+<li style="font-size:1.2rem">B.S. Mechanical Engineering, <em>Summa Cum Laude</em>, West Virginia University (2021)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.2rem"}}} -->
+<li style="font-size:1.2rem">B.S. Aerospace Engineering, <em>Summa Cum Laude</em>, West Virginia University (2021)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=yr_Kh3OVQmE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=yr_Kh3OVQmE
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"className":"is-style-default","style":{"typography":{"fontSize":"3.7rem","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"0","right":"0"}},"color":{"background":"#a5d6a7"},"border":{"radius":"100px"}},"anchor":"research"} -->
+<h1 class="wp-block-heading has-text-align-center is-style-default has-background" id="research" style="border-radius:100px;background-color:#a5d6a7;padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0;font-size:3.7rem">Research</h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|60"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"layout":{"selfStretch":"fixed","flexSize":"7000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>Loopy: Swarm of One</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem"><em>Investigates bottom-up design via morphogenesis, where physically connected individual robots utilize simulated cellular processes to self-organize the morphology, behavior, and problem-solving ability of a single macroscopic robot. Physical experiments are conducted on the custom Loopy robot, a 36-agent swarm.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Media coverage</strong>: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://theconversation.com/swarm-of-one-robot-is-a-single-machine-made-up-of-independent-modules-222266" rel="">The Conversation</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://spectrum.ieee.org/video-friday-fourier-intelligence">IEEE Spectrum</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wvutoday.wvu.edu/stories/2024/08/21/shape-shifting-wvu-robot-inspired-by-insect-swarms-and-tree-roots-is-teaching-itself-to-mark-contamination-zones">WVU Today</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[81,82,80,79,117,116,78],"sizeSlug":"large"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(1024 / 768)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-81" data-id="81" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20240209_111041-5.jpg?w=1024"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-82" data-id="82" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20230622_204932-5.jpg?w=1024"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-80" data-id="80" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/loopy_light-5.jpg?w=1024"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-79" data-id="79" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250521_135026.jpg?w=1024"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-117" data-id="117" data-aspect-ratio="236 / 226" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/loopy-morphspace.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-116" data-id="116" data-aspect-ratio="438 / 458" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/screenshot-2024-08-28-205030.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-78" data-id="78" data-aspect-ratio="1024 / 578" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20230209_140923-4.jpg?w=1024"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40","padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"border":{"radius":"100px"}},"backgroundColor":"accent-5","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-accent-5-background-color has-background" style="border-radius:100px;padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Emergent Morphology</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/m8p6ghJFFIY?si=J8I36op038cUZmKy","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/m8p6ghJFFIY?si=J8I36op038cUZmKy
+</div><figcaption class="wp-element-caption">_____________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ieeexplore.ieee.org/document/10342118">Paper (IROS 2023)</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Morphology &amp; Behavior</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=TIAHo_c5qIQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=TIAHo_c5qIQ
+</div><figcaption class="wp-element-caption">____________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ieeexplore.ieee.org/document/11128053">Paper (ICRA 2025)</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Morphology, Behavior, &amp; Environment</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=8vfV53JMVxU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=8vfV53JMVxU
+</div><figcaption class="wp-element-caption">____________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.nature.com/articles/s44182-025-00039-y">Paper (NPJ Robotics 2025)</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"},"blockGap":"var:preset|spacing|40"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"layout":{"selfStretch":"fixed","flexSize":"5000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>Stickbug: <strong>Six-Armed Mobile Precision Pollination Robot</strong> </strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem"><em><em>Investigates self-organization within a robot for dynamic unstructured environments. I designed a robot consisting of seven sub-robots —six arms and a drivebase — that cooperate to pollinate flowers in a greenhouse environment alongside human workers. Each sub-robot, if powered, can function independently from the rest of the collective.</em></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Media Coverage: </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.asme.org/topics-resources/content/six-armed-robot-stickbug-works-as-a-precision-pollinator">ASME</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.scientificamerican.com/article/robotic-bees-could-support-vertical-farms-today-and-astronauts-tomorrow/">Scientific American</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://spectrum.ieee.org/video-friday-lassie-moon">IEEE Spectrum</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wvutoday.wvu.edu/stories/2021/10/27/wvu-researchers-develop-new-robot-pollinator-as-a-backup-for-declining-insect-populations">WVU Today</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.fastcompany.com/90691722/when-bees-cant-pollinate-a-flower-this-helpful-agricultural-robot-can-help-out-instead">Fast Company</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[94,93,96,95,114,115],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(1024 / 731)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-94" data-id="94" data-aspect-ratio="1024 / 731" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/horizontal_stickbug.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-93" data-id="93" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20250402_145132.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-96" data-id="96" data-aspect-ratio="1024 / 576" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/trevor-smith.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-95" data-id="95" data-aspect-ratio="1024 / 576" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/screenshot-from-2022-05-05-13-52-45.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-114" data-id="114" data-aspect-ratio="231 / 413" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/stickbug.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-115" data-id="115" data-aspect-ratio="710 / 1024" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/stickbug_software_architecture.drawio-6-1.png"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Design of Stickbug</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=kZFEwD3-cok","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=kZFEwD3-cok
+</div><figcaption class="wp-element-caption">___________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ieeexplore.ieee.org/document/10801406">Paper (IROS 2024)</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://grabcad.com/library/stickbug-1">CAD</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://ieee-dataport.org/documents/bramble-flower-detection-and-classification-dataset-precision-pollination">Dataset</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/wvu-robotics/Stickbug_2024">Software</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Branch Manipulation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=d6HE7uhxKaI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=d6HE7uhxKaI
+</div><figcaption class="wp-element-caption">___________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://arxiv.org/abs/2503.07497">Paper (IROS 2025)</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/wvu-irl/Branch_Manipulation">Software</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Flower Pose Estimation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=7FnDFMThjGs","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=7FnDFMThjGs
+</div><figcaption class="wp-element-caption">___________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://arxiv.org/pdf/2503.11692">Paper (IROS 2025)</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/wvu-irl/flope">Software</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"3.7rem","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#a5d6a7"},"border":{"radius":"100px"}},"anchor":"tools"} -->
+<h2 class="wp-block-heading has-text-align-center has-background" id="tools" style="border-radius:100px;background-color:#a5d6a7;padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);font-size:3.7rem">Development Tools</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"},"blockGap":"var:preset|spacing|60","margin":{"top":"0","bottom":"0"}},"border":{"width":"10px","color":"#ffffff","radius":"100px"}},"backgroundColor":"accent-5","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-accent-5-background-color has-background" style="border-color:#ffffff;border-width:10px;border-radius:100px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"0px"},"layout":{"selfStretch":"fixed","flexSize":"2500px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="min-height:0px"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>Multi-Agent Rapid Experiment Testbed</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem"><em><em>Designed and built an experimental testbed for table-top multi-agent robots featuring: </em></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"horizontal"}} -->
+<div class="wp-block-group"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Air hockey table (low friction)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Projector (virtual Environments)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Vicon (motion capture)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Observation Camera (data collection)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Robot Operating System 2 (ROS2) support</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Robot Operating System (ROS) support</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Robots:</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Turtle bots (x6) "Power &amp; Go"</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Swarm of 50</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Loopy</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[121,118,82,80],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(1024 / 576)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-121" data-id="121" data-aspect-ratio="1024 / 576" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/turtlebot_projector-2.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-118" data-id="118" data-aspect-ratio="1024 / 576" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/img_9052.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-82" data-id="82" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20230622_204932-5.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-80" data-id="80" data-aspect-ratio="1024 / 768" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/loopy_light-5.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"border":{"width":"10px","color":"#ffffff","radius":"100px"}},"backgroundColor":"accent-5","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-border-color has-accent-5-background-color has-background" style="border-color:#ffffff;border-width:10px;border-radius:100px;padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Turtle bots &amp; ROS</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=uez4bsONinY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=uez4bsONinY
+</div><figcaption class="wp-element-caption">_________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Swarm of 50</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=q1Gwf4VoVI0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=q1Gwf4VoVI0
+</div><figcaption class="wp-element-caption">_________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Turtlebot Pickup</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=F4Wvjb6crjE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=F4Wvjb6crjE
+</div><figcaption class="wp-element-caption">_________________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|60"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"layout":{"selfStretch":"fixed","flexSize":"4000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>Minion: Research Writing Assistant</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem">From lab notes to LaTeX — Minion makes academic writing modular, guided, and approachable. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Minion helps students navigate the academic writing process by transforming an overwhelming paper into a series of clear, manageable steps. It prompts critical thinking with thought-provoking questions and supports writing at multiple levels — from informal lab notes to polished LaTeX manuscripts — streamlining the path from ideas to publication.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[133,127,126,128],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(981 / 1024)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-133" data-id="133" data-aspect-ratio="981 / 1024" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/minion-1-1.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-127" data-id="127" data-aspect-ratio="1024 / 501" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/minion_project.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-126" data-id="126" data-aspect-ratio="1024 / 504" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/minion_library.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-128" data-id="128" data-aspect-ratio="1024 / 488" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/minion_editor.png"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"color":{"background":"#a5d6a7"},"border":{"radius":"100px","width":"10px","color":"#ffffff"},"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group has-border-color has-background" style="border-color:#ffffff;border-width:10px;border-radius:100px;background-color:#a5d6a7;padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"style":{"typography":{"fontSize":"3.7rem","textAlign":"center"},"spacing":{"padding":{"top":"0","bottom":"0"}},"border":{"radius":"0px"}},"anchor":"mentoring"} -->
+<h2 class="wp-block-heading has-text-align-center" id="mentoring" style="border-radius:0px;padding-top:0;padding-bottom:0;font-size:3.7rem">Mentoring &amp; Outreach</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"border":{"radius":"0px","width":"0px","style":"none"},"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center" style="border-style:none;border-width:0px;border-radius:0px"><strong>Mentoring Philosophy:</strong><em> "I believe hands-on experience, freedom to explore unknown topics, and the freedom to make mistakes are critical to learning and innovation in robotics. By equipping students with technical expertise, research independence, and problem-solving skills, I aim to inspire future roboticists and prepare them for success."</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|60"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"0px"},"layout":{"selfStretch":"fixed","flexSize":"4000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="min-height:0px"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>University Rover Challenge (URC)</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem">International Robotics Competition for<em><em> developing the next Generation of rovers to assist astronauts on Mars </em></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After serving as the Team Lead during my undergraduate studies, I have been a graduate student mentor since 2022. Teaching 40+ undergraduates <em>on principles of system design, manufacturing techniques, electronics, and programming.</em> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"horizontal"}} -->
+<div class="wp-block-group"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<li style="font-size:1.5rem">2nd place (2025)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<li style="font-size:1.5rem">2nd place (2024)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<li style="font-size:1.5rem">1st place (2023)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[139,135,136,137,138,140],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(8688 / 5792)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-139" data-id="139" data-aspect-ratio="8688 / 5792" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/img_2796.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-135" data-id="135" data-aspect-ratio="624 / 416" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/picture1.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-136" data-id="136" data-aspect-ratio="624 / 416" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/picture2.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-137" data-id="137" data-aspect-ratio="6000 / 4000" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/7v7a1700.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-138" data-id="138" data-aspect-ratio="1820 / 1365" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/20241029_164503.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-140" data-id="140" data-aspect-ratio="8688 / 5792" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/img_2852.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">2025</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=cWDfCcIocME","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=cWDfCcIocME
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">2024</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=2Nqx4KBLR8w","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=2Nqx4KBLR8w
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">2023</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=u_G0INgx_XA\u0026amp;t=1s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=u_G0INgx_XA&amp;t=1s
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">2022</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=4wiPSe8JtRk","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=4wiPSe8JtRk
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">2021</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=WcyxecE9sAE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=WcyxecE9sAE
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">2020</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=45CkzOCeJRA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=45CkzOCeJRA
+</div><figcaption class="wp-element-caption">_______________________________________________________________________________________</figcaption></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|60"},"border":{"radius":"100px","width":"10px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"0px"},"layout":{"selfStretch":"fixed","flexSize":"6000px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group" style="min-height:0px"><!-- wp:heading {"style":{"layout":{"selfStretch":"fit"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size"><strong>WVU Robotics Club</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<p style="font-size:1.5rem"><em><em>Competing in VEX-U International Robotics Competition</em></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After serving as the Robotics Club president during my undergraduate studies, I have been a graduate student mentor since 2022. Teaching undergraduates <em>on principles of system design, manufacturing techniques, electronics, and programming.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"horizontal"}} -->
+<div class="wp-block-group"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<li style="font-size:1.5rem">Competed at Worlds Competition (2024, 2025)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:jetpack/slideshow {"ids":[142,150,144,152,143,145,146,147,148,149,151],"sizeSlug":"full"} -->
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide" style="--aspect-ratio:calc(4272 / 2848)"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-142" data-id="142" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-01.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-150" data-id="150" data-aspect-ratio="4624 / 3472" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-45.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-144" data-id="144" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-04.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-152" data-id="152" data-aspect-ratio="6001 / 4000" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-86.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-143" data-id="143" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-02.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-145" data-id="145" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-05.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-146" data-id="146" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-06.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-147" data-id="147" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-07.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-148" data-id="148" data-aspect-ratio="4272 / 2848" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-11.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-149" data-id="149" data-aspect-ratio="2186 / 1646" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-19.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-151" data-id="151" data-aspect-ratio="6000 / 4000" src="https://trevorsmithrobotics.wordpress.com/wp-content/uploads/2025/10/worlds-2025-83.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"3.7rem","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#a5d6a7"},"border":{"radius":"100px"}},"anchor":"publications"} -->
+<h2 class="wp-block-heading has-text-align-center has-background" id="publications" style="border-radius:100px;background-color:#a5d6a7;padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);font-size:3.7rem">Publications</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"border":{"radius":"100px","width":"10px"},"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60","top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"},"blockGap":"0px"}},"backgroundColor":"accent-5","borderColor":"base-2","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group has-border-color has-base-2-border-color has-accent-5-background-color has-background" style="border-width:10px;border-radius:100px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--60)"><!-- wp:list {"ordered":true,"className":"is-style-default","style":{"typography":{"lineHeight":"1.5"},"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"layout":{"selfStretch":"fit","flexSize":null}}} -->
+<ol style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);line-height:1.5" class="wp-block-list is-style-default"><!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Shrestha, R., Rijal, M., <strong>Smith, T</strong>., &amp; Gu, Y. (2025). FloPE: Flower Pose Estimation for Precision Pollination.&nbsp;International Conference on Intelligent Robots and Systems (IROS 2025)</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Rijal, M., Shrestha, R., <strong>Smith, T</strong>., &amp; Gu, Y. (2025). Force-Aware Branch Manipulation To Assist Agricultural Tasks.&nbsp;International Conference on Intelligent Robots and Systems (IROS 2025)</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T. R., </em></strong><em>Smith, T. J., Szczecinski, N. S., Yakovenko, S., &amp; Gu, Y., Cellular Plasticity Model for Self-Organized Phenotypes in Multi-Cellular Robots.&nbsp;npj robotics: Living Machines (2024).</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Smith, T. J., Tahmasebi, G., <strong>Smith, T. R</strong>., Solis, E., Haghighi, P., &amp; Pancrazio, J. J. Modular Tracking System for Treadmill-Based Rodent Experiments.&nbsp;47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025).</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T.,</em></strong><em> &amp; Gu, Y. Loopy Movements: Emergence of Rotation in a Multicellular Robot.&nbsp;International Conference on Robotics and Automation (ICRA 2025)</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T</em></strong><em>., Rijal, M., Tatsch, C., Butts, R. M., Beard, J., Cook, R. T., ... &amp; Gu, Y. Design of Stickbug: a Six-Armed Precision Pollination Robot.&nbsp;International Conference on Intelligent Robots and Systems (IROS 2024)</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Rijal, M., <strong>Smith</strong>, T., Tatsch, C., Beard, J., Chu, A., Butts, R. M., Waterland, N., Gross, J., &nbsp;Gu, Y. (2024). Bramble Flower Detection and Classification Dataset for Precision Pollination. IEEE Dataport. <a href="https://dx.doi.org/10.21227/b58f-jt53">https://dx.doi.org/10.21227/b58f-jt53</a></em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T. R.</em></strong><em>, Smith, T. J., Szczecinski, N. S., Yakovenko, S., &amp; Gu, Y. (2025). Cellular Plasticity Model for Bottom-Up Robotic Design. In&nbsp;Conference on Biomimetic and Biohybrid Systems&nbsp;(pp. 254-268). Springer, Cham.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Smith, T. J., <strong>Smith, T. R.</strong>, Faruk, F., Bendea, M., Kumara, S. T., Capadona, J. R., ... &amp; Pancrazio, J. J. (2024). Real-Time Assessment of Rodent Engagement Using ArUco Markers: A Scalable and Accessible Approach for Scoring Behavior in a Nose-Poking Go/No-Go Task.&nbsp;Eneuro,&nbsp;11(3).</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Smith, T. J., <strong>Smith, T. R.</strong>, Faruk, F., Bendea, M., Kumara, S. T., Capadona, J. R., ... &amp; Pancrazio, J. J. (2024). A Real-Time Approach for Assessing Rodent Engagement in a Nose-Poking Go/No-Go Behavioral Task Using ArUco Markers.&nbsp;Bio-protocol,&nbsp;14(21), e5098.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T.</em></strong><em>, Butts, R. M., Adkins, N., &amp; Gu, Y. (2023, October). Swarm of One: Bottom-Up Emergence of Stable Robot Bodies from Identical Cells. In&nbsp;2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)&nbsp;(pp. 4683-4689). IEEE.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T.</em></strong><em>, Gutierrez, E., Bredu, J. A., Gu, Y., &amp; Gross, J. (2022, September). Cooperative and coordinated localization of swarm robots using adaptive boids rules. In&nbsp;Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022)&nbsp;(pp. 2927-2940).</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T. </em></strong><em>(2022). Gemini Telepresence Robot System Design: A Low-Cost Solution for Manipulation and Enhanced Perception of Telepresence Robots.&nbsp;Mountaineer Undergraduate Research Review,&nbsp;7(1), 9.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><em>Chen, Y., <strong>Smith, T</strong>., Hewitt, N., Gu, Y., &amp; Hu, B. (2021, September). Effects of human personal space on the robot obstacle avoidance behavior: A human-in-the-loop assessment. In&nbsp;Proceedings of the Human Factors and Ergonomics Society Annual Meeting&nbsp;(Vol. 65, No. 1, pp. 1195-1199). Sage CA: Los Angeles, CA: SAGE Publications.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
+<li style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)"><strong><em>Smith, T.</em></strong><em>, Chen, Y., Hewitt, N., Hu, B., &amp; Gu, Y. (2023). Socially aware robot obstacle avoidance considering human intention and preferences.&nbsp;International journal of social robotics,&nbsp;15(4), 661-678.</em></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"pub/twentytwentyfour","tagName":"footer","area":"footer"} /--></main>
+<!-- /wp:group -->

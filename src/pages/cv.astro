@@ -1,0 +1,4 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'; import {profile} from '../data/profile';
+---
+<BaseLayout title="Curriculum Vitae | Trevor Smith"><section class="page-hero shell"><p class="eyebrow">Curriculum vitae</p><h1>Academic record.</h1><p>{profile.name} is a robotics researcher developing self-organizing, scalable, and physically embodied robotic systems.</p><div class="buttons"><a class="button" href="/cv/Trevor_Smith_CV.pdf">Download CV ↓</a></div><object class="cv-frame" data="/cv/Trevor_Smith_CV.pdf" type="application/pdf"><p>The embedded CV is unavailable in this browser. <a href="/cv/Trevor_Smith_CV.pdf">Download the PDF instead.</a></p></object></section></BaseLayout>
